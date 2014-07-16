@@ -1,2 +1,3 @@
 saru demo wakaru Git command
 add henkou wo index ni touroku suru
+commit remote sate of index
